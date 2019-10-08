@@ -1,0 +1,38 @@
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.exe.config
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.exe
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.pdb
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form1.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form2.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Properties.Resources.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.csproj.GenerateResource.Cache
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.exe
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.pdb
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form3.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form4.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form5.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form6.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form7.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form8.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Giris.resources
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.exe.config
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.exe
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.pdb
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.exe
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.pdb
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form1.resources
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form2.resources
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form3.resources
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form4.resources
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form5.resources
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form6.resources
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form7.resources
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form8.resources
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Giris.resources
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Properties.Resources.resources
+C:\Users\SAMSUNGNB\Desktop\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.csproj.GenerateResource.Cache
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Form9.resources
+E:\smartpro\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.exe.config
+E:\smartpro\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.exe
+E:\smartpro\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.pdb
